@@ -75,6 +75,10 @@ contract Raffle is VRFConsumerBaseV2, KeeperCompatibleInterface {
         i_interval = interval;
     }
 
+    receive() external payable {}
+
+    fallback() external payable {}
+
     /**
      * @dev This is the function that the Chainlink Keeper nodes call
      * they look for the `upkeepNeeded` to return true.
