@@ -15,10 +15,6 @@
 - [Linting](#linting)
 - [Thank you!](#thank-you)
 
-This project is apart of the Hardhat FreeCodeCamp video.
-
-Checkout the full blockchain course video [here.](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
-
 # Getting Started
 
 ## Requirements
